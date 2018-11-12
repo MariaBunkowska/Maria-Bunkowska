@@ -1,0 +1,8 @@
+.Header{
+  background-image:url('../background.jpeg');
+}
+.Experience{
+  border:1px #ccc solid;
+  padding:10px
+  boarder-radius:15px;
+}
