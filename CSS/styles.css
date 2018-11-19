@@ -1,6 +1,15 @@
+header{
+  text-align: jusify;
+}
+
 body {
-  text-align: left;
-  background-color: black;
-  color: white;
-  font-family: helvetica;
+  text-align: center;
+  background: url("file:///Users/Maria/Desktop/mariabunkowska/background84.JPG");
+  background-size: cover;
+  background-position: center;
+  famility font: helvetica;
+}
+
+p {
+  font-size: 22px;
 }
