@@ -1,15 +1,26 @@
-header{
-  text-align: jusify;
+body{
+  margin:0;
+  padding:0;
+  text-align:justify;
+  text-align:center;
+  font-family: 'Poiret One', cursive;
+
 }
 
-body {
-  text-align: center;
-  background: url("file:///Users/Maria/Desktop/mariabunkowska/background84.JPG");
-  background-size: cover;
+.header{
+  background-image: url("../maria.jpg");
+  background-repeat: no-repeat;
   background-position: center;
-  famility font: helvetica;
+  background-size: contain;
+  background-attachment:fixed;
+  padding-top: 600px;
+  padding-bottom: 100px;
+  color:white;
+  font-size: 44px;
+  font-family: 'Poiret One', cursive;
 }
 
-p {
-  font-size: 22px;
+.about{
+  margin: auto;
+
 }
